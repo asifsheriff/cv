@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Mohammed Asif Sheriff</title>
+  </head>
+  <body>
+    <img src="D:\mommob\fitness\537937_618030804920256_497631749_n.jpg" alt="image not found">
+    <h1 style="background-color:red;">Mohammed Asif Sheriff</h1>
+    <br>
+    <p style="color:red;">Oracle Consultant at <a href="https://andryan.com/" target="_blank">Andryan Solution</a></p>
+    <p>Mail to <a href="mailto:a.asifsheriff@gmail.com" target="_blank">Asif Mail Box</a></p>
+    <p>Phone Number<a href="tel:+971 505164541" target="_blank">Asif Mobile Number</a></p>
+    <p><strong>Experience</strong> 5 Years,9 Months</p>
+    <p>Having an Experience of 5 years,9 months as Oracle Consultant. and my expertise is Oracle OAF,<br>
+       Workflow, AME and Oracle Activities.</p>
+    <hr size="5">
+    <h2>Work Experience</h2>
+    <ul>
+      <li>4I APPS, (2015-2017)</li>
+      <li>Wipro, (2017-2019)</li>
+      <li>Andryan IT Solutions, (2019-Till Now)</li>
+    </ul>
+    <hr size="5">
+    <h2> <em>Education</em></h2>
+    <ol type = "i">
+      <li>B.Tech IT , (2009-2013)</li>
+      <li value = "3">Higher Secondary, (2009)</li>
+      <li>Secondary, (2007)</li>
+      <li>Secondary, (2006)</li>
+    </ol>
+    <hr size="5">
+    <h2><a href="hobbies.html">Hobbies</a></h2>
+
+
+  </body>
+</html>
